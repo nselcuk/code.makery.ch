@@ -5,7 +5,7 @@ date: 2014-04-19 01:00
 updated: 2015-03-12 00:00
 slug: javafx-8-tutorial/part1
 github: https://github.com/marcojakob/code.makery.ch/edit/master/collections/library/javafx-8-tutorial-en-part1.md
-description: "Learn how to set up a JavaFX project. This is part one of a seven-part tutorial about designing, programming and deploying an address application with JavaFX."
+description: "JavaFX projesi nasıl kurulur?. This is part one of a seven-part tutorial about designing, programming and deploying an address application with JavaFX."
 image: /assets/library/javafx-8-tutorial/part1/addressapp-part1.png
 published: true
 prettify: true
@@ -56,7 +56,7 @@ languages:
 
 ### Topics in Part 1
 
-* Getting to know JavaFX
+* JavaFX nedir?
 * Creating and starting a JavaFX Project
 * Using Scene Builder to design the user interface
 * Basic application structure using the Model-View-Controller (MVC) pattern
